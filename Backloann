@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>YOUR BUSINESS NAME- Quick Loans</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{margin:0;font-family:Arial;background:#0a7a42;color:white;text-align:center;padding:20px}
+.box{background:white;color:#333;max-width:420px;margin:20px auto;padding:25px;border-radius:20px}
+h1{font-size:26px}
+.price{font-size:32px;color:#0a7a42;font-weight:bold}
+.btn{display:block;background:#25D366;color:white;padding:16px;border-radius:12px;text-decoration:none;font-size:18px;font-weight:bold;margin-top:15px}
+.btn2{display:block;background:#111;color:white;padding:14px;border-radius:12px;text-decoration:none;margin-top:10px}
+ul{text-align:left}
+</style>
+</head>
+<body>
+<h1>backloan</h1>
+<p>Fast & Trusted Loans in KISUMU / NAIROBI</p>
+
+<div class="box">
+<div class="price">KES 500 - 50,000</div>
+<p>Same Day Approval • No CRB Check • 100% Mobile</p>
+<ul>
+<li>✅ ID + M-PESA Statement Only</li>
+<li>✅ Interest from 5% per month</li>
+<li>✅ Pay via M-PESA / Airtel Money</li>
+<li>✅ No PIN Required Ever</li>
+</ul>
+<a class="btn" href="https://wa.me/254103675234?text=Hello,%20I%20want%20a%20loan">📱 APPLY ON WHATSAPP</a>
+<a class="btn2" href="tel:+254103675234">📞 CALL NOW</a>
+<p><small>Mon - Sat 8am - 8pm<br>Location: Kisumu Town</small></p>
+</div>
+<p>© 2026 backloan</p>
+</body>
+</html>
